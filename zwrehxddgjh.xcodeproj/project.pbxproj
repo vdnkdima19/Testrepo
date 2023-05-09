@@ -13,6 +13,7 @@
 		EED5A5592A0A50D000CA0F30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EED5A5572A0A50D000CA0F30 /* Main.storyboard */; };
 		EED5A55B2A0A50D100CA0F30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EED5A55A2A0A50D100CA0F30 /* Assets.xcassets */; };
 		EED5A55E2A0A50D100CA0F30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EED5A55C2A0A50D100CA0F30 /* LaunchScreen.storyboard */; };
+		EED5A5662A0A555D00CA0F30 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EED5A5652A0A555D00CA0F30 /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EED5A55A2A0A50D100CA0F30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EED5A55D2A0A50D100CA0F30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EED5A55F2A0A50D100CA0F30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EED5A5652A0A555D00CA0F30 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EED5A5512A0A50D000CA0F30 /* AppDelegate.swift */,
 				EED5A5532A0A50D000CA0F30 /* SceneDelegate.swift */,
 				EED5A5552A0A50D000CA0F30 /* ViewController.swift */,
+				EED5A5652A0A555D00CA0F30 /* SecondVC.swift */,
 				EED5A5572A0A50D000CA0F30 /* Main.storyboard */,
 				EED5A55A2A0A50D100CA0F30 /* Assets.xcassets */,
 				EED5A55C2A0A50D100CA0F30 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				EED5A5562A0A50D000CA0F30 /* ViewController.swift in Sources */,
 				EED5A5522A0A50D000CA0F30 /* AppDelegate.swift in Sources */,
+				EED5A5662A0A555D00CA0F30 /* SecondVC.swift in Sources */,
 				EED5A5542A0A50D000CA0F30 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
