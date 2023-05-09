@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B202A48F2A0A55650067A115 /* FirstVS.swift in Sources */ = {isa = PBXBuildFile; fileRef = B202A48E2A0A55650067A115 /* FirstVS.swift */; };
 		EED5A5522A0A50D000CA0F30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EED5A5512A0A50D000CA0F30 /* AppDelegate.swift */; };
 		EED5A5542A0A50D000CA0F30 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EED5A5532A0A50D000CA0F30 /* SceneDelegate.swift */; };
 		EED5A5562A0A50D000CA0F30 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EED5A5552A0A50D000CA0F30 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B202A48E2A0A55650067A115 /* FirstVS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVS.swift; sourceTree = "<group>"; };
 		EED5A54E2A0A50D000CA0F30 /* zwrehxddgjh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = zwrehxddgjh.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EED5A5512A0A50D000CA0F30 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EED5A5532A0A50D000CA0F30 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				EED5A55A2A0A50D100CA0F30 /* Assets.xcassets */,
 				EED5A55C2A0A50D100CA0F30 /* LaunchScreen.storyboard */,
 				EED5A55F2A0A50D100CA0F30 /* Info.plist */,
+				B202A48E2A0A55650067A115 /* FirstVS.swift */,
 			);
 			path = zwrehxddgjh;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EED5A5562A0A50D000CA0F30 /* ViewController.swift in Sources */,
+				B202A48F2A0A55650067A115 /* FirstVS.swift in Sources */,
 				EED5A5522A0A50D000CA0F30 /* AppDelegate.swift in Sources */,
 				EED5A5662A0A555D00CA0F30 /* SecondVC.swift in Sources */,
 				EED5A5542A0A50D000CA0F30 /* SceneDelegate.swift in Sources */,
