@@ -13,6 +13,8 @@ class FirstVS: UIViewController {
         super.viewDidLoad()
 
         print("Opened FirstVS")
+        // Confafagagag
+        let some = "me"
     }
     
 
